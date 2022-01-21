@@ -1,0 +1,15 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\bin\Debug\pdfislem.exe.config
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\bin\Debug\pdfislem.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\bin\Debug\pdfislem.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.csproj.AssemblyReference.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.csproj.ResolveComReference.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.Properties.Resources.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\pdfislem\pdfislem\obj\Debug\pdfislem.pdb
